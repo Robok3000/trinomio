@@ -1,4 +1,4 @@
-baseURL = "https://robok3000.github.io/trinomio/"
+baseURL = ""
 languageCode = "en-us"
 title = "Trinomio.Digital"
 theme = "hugo-uilite"
