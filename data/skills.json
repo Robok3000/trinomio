@@ -1,9 +1,9 @@
 {
-	"title" : "Skills",
+	"title" : "En qué somos expertos",
 	"skills" : {
-		"Sketch" : "90",
-		"Adobe XD" : "80",
-		"Illustrator" : "65",
-		"Photoshop" : "97"
+		"SEO" : "90",
+		"Performance" : "90",
+		"Marketing Digital" : "95",
+		"Manejo de Redes Sociales" : "97"
 	}
 }

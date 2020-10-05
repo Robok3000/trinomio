@@ -1,15 +1,20 @@
 {
-	"title" : "Services",
+	"title" : "Servicios",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "assistive-listening-systems",
+			"title" : "Análisis",
+			"description" : "A través de herramientas de análisis, podemos establecer cuáles son las redes sociales más adecuadas para hacer tu campaña digital. "
 		},
 		{
-			"icon" : "pen-nib",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "bong",
+			"title" : "Creatividad",
+			"description" : "Creamos campañas efectivas para llegar a tu público objetivo y lograr que performen de manera efectiva. "
+		},
+		{
+			"icon" : "chart-line",
+			"title" : "Estrategia",
+			"description" : "Creamos campañas efectivas para llegar a tu público objetivo y lograr que performen de manera efectiva. "
 		}
 	]
 }
