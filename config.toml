@@ -2,4 +2,4 @@ baseURL = "https://github.com/Robok3000/portafolio3"
 languageCode = "en-us"
 title = "Trinomio.Digital"
 theme = "hugo-uilite"
-publishDir = "root"
+
