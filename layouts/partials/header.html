@@ -34,8 +34,10 @@
 	{{ range .AlternativeOutputFormats -}}
 	<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" />
 	{{ end -}}
-		
+
 	{{ partial "seo_schema.html" . }}
+
+	<meta name="facebook-domain-verification" content="fgpf6iq8v3z2x0urjmkxmtwbhzmuhv" />
 
 </head>
 <body class="clearfix">
